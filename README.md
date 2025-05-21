@@ -4,7 +4,7 @@ This repository contains an Exploratory Data Analysis (EDA) project focused on c
 
 ## 📊 Project Overview
 
-- Dataset: [Include link or description if applicable]
+- Dataset: 
 - Objective: Understand features that impact car prices
 - Tools used: Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
